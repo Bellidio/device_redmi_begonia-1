@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/palladium_begonia.mk
+    $(LOCAL_DIR)/xtended_begonia.mk
 
 COMMON_LUNCH_CHOICES := \
-    palladium_begonia-user \
-    palladium_begonia-userdebug \
-    palladium_begonia-eng
+    xtended_begonia-user \
+    xtended_begonia-userdebug \
+    xtended_begonia-eng
