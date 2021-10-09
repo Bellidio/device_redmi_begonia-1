@@ -28,7 +28,6 @@ $(call inherit-product, device/redmi/begonia/device.mk)
 
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/xtended/config/common_full_phone.mk)
-$(call inherit-product, vendor/dolby/config.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := begonia
